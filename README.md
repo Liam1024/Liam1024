@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liam1024
 - 👀 I’m interested in java & vue
-- 🌱 I’m currently learning vue
+- 🌱 I’m currently learning java & vue
 - 💞️ I’m looking to collaborate on wasting time
 - 📫 It's unnecessary to reach me ...
 
